@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf6f0;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #ffcc70;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #000;
+}
+
+img {
+  max-width: 300px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+ul {
+  list-style-type: square;
+  text-align: left;
+  display: inline-block;
+  margin-top: 10px;
+}
